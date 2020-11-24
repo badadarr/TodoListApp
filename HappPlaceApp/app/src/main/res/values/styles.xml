@@ -1,0 +1,12 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="CustomNoActionBarStyle" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/colorPrimary</item>
+    </style>
+
+    <style name="CustomToolbarStyle">
+        <item name="android:textColorPrimary">#ffffff</item>
+        <item name="android:colorControlNormal">#ffffff</item>
+    </style>
+
+</resources>
